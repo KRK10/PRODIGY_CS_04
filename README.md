@@ -1,6 +1,7 @@
 # PRODIGY_CS_04
 
 Keystroke Logger
+
 This Python script implements a basic keystroke logger that captures and records all keyboard input to a specified log file. It uses the pynput library to listen for keyboard events.
 
 How It Works:
